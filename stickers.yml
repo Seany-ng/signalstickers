@@ -27399,3 +27399,9 @@ f3038d1e6d8a45df6c5223c0b7f01947:
     - reaction
     - cat
   original: true
+7b3bdeda9df6f550c44f058a2b589afb:
+  key: 07a09129daf387d64d31deafb0986838d5fb8a640844139eb84e152f4179b2ca
+  source: 'https://t.me/addstickers/suiica0'
+  tags:
+    - Suica
+  nsfw: true
